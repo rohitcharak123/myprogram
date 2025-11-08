@@ -36,7 +36,7 @@ text
  Installation
 1.	Clone the repository:
 bash
-git clone https://github.com/yourusername/telco-churn-predictor.git
+git clone https://github.com/rohitcharak123/myprogram.git
 cd telco-churn-predictor
 2.	Install dependencies:
 bash
